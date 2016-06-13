@@ -1,7 +1,7 @@
 var<map<int, string>> Colors = {
 		0: 'red',
-		1: 'green',
-		2: 'blue',
-		3: 'purple',
-		4: 'black',
+		1: 'orange',
+		2: 'yellow',
+		3: 'darkred',
+		4: '#FF6633',
 }
